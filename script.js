@@ -30,6 +30,6 @@ $(window).on( 'resize', createSlick );
 $(document).ready(function(){
     
         for(var i = 1 ; i <= total; i++){
-            $(".row1").append('<div class="ilb-m box4 imgwrap"><a class="imgdiv ilb-m" href="https://teespring.com/stores/fyeve"><img class="box1 ilb-t" src="./images/'+ i + '.jpg" alt="Legging">');
+            $(".row1").append('<div class="ilb-m box4 imgwrap"><a class="imgdiv ilb-m" href="https://mickydeetees.redbubble.com"><img class="box1 ilb-t" src="./images/'+ i + '.jpg" alt="Legging">');
         };
 });
