@@ -45,6 +45,7 @@ footer{
     background: rgba(0, 0, 0, .5);
     margin: 0 auto;
     margin-top: 200px;
+    width: 50%;
     
 }
 /*commit*/
@@ -63,6 +64,13 @@ footer{
 @media only screen and (max-width: 600px){
     .box4{width: 45%;}
     
+}
+@media only screen and (max-width: 800px){
+
+    .enter{
+        margin-top: 350px;
+        width: 70%;
+    }
    
 
 }
